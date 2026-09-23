@@ -77,6 +77,7 @@
 > 각 그래프 아래에 **관찰(Fact, 그래프에서 읽은 수치)** 과 **해석(가설)** 을 나누어 적었다.
 
 ### ① 일평균 기온과 이동평균 — 계절성과 장기 추세
+https://github.com/shjun820331-sudo/seoul-temperature-analysis/blob/main/01_daily_moving_average.png?raw=true
 
 ![일평균 기온과 이동평균](images/01_daily_moving_average.png)
 
