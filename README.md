@@ -5,6 +5,9 @@
 - 📄 **분석 리포트**: [REPORT.md](REPORT.md)
 - 📓 **분석 코드**: [analysis.ipynb](analysis.ipynb) (실행 결과 포함)
 - 📊 **대시보드 (보너스)**: [DASHBOARD.md](DASHBOARD.md)
+
+- file:///C:/Users/SAMSUNG/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/m1/seoul-temperature-analysis/seoul-temperature-dashboard.html
+- 
 - 📘 **학습 가이드**: [학습가이드.md](학습가이드.md)
 
 ## 핵심 결과
